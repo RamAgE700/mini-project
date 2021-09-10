@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="100" viewBox="0 0 250 100">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 300px;
+        text-anchor: middle;
+        font-family: "Franklin Gothic Heavy";
+      }
+
+      .cls-2 {
+        fill: #00942a;
+      }
+    </style>
+  </defs>
+  <image id="Background" width="250" height="100" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAABkCAYAAACvgC0OAAABPUlEQVR4nO3TARHAQAjAMDb/nnkfNLHQ67e7O8Bpv7xwn9EhwOgQYHQIMDoEGB0CjA4BRocAo0OA0SHA6BBgdAgwOgQYHQKMDgFGhwCjQ4DRIcDoEGB0CDA6BBgdAowOAUaHAKNDgNEhwOgQYHQIMDoEGB0CjA4BRocAo0OA0SHA6BBgdAgwOgQYHQKMDgFGhwCjQ4DRIcDoEGB0CDA6BBgdAowOAUaHAKNDgNEhwOgQYHQIMDoEGB0CjA4BRocAo0OA0SHA6BBgdAgwOgQYHQKMDgFGhwCjQ4DRIcDoEGB0CDA6BBgdAowOAUaHAKNDgNEhwOgQYHQIMDoEGB0CjA4BRocAo0OA0SHA6BBgdAgwOgQYHQKMDgFGhwCjQ4DRIcDoEGB0CDA6BBgdAowOAUaHAKNDgNEhwOhw3cw8kt4ExNk+H+UAAAAASUVORK5CYII="/>
+  <text id="FORGE_PC" data-name="FORGE PC" class="cls-1" transform="translate(122.625 62.511) scale(0.158)"><tspan x="0">FORGE <tspan class="cls-2">PC</tspan></tspan></text>
+</svg>

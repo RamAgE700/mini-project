@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="140" viewBox="0 0 280 140">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 41.667px;
+        text-anchor: middle;
+        fill: #5d5b5b;
+        font-family: "Franklin Gothic Heavy";
+      }
+
+      .cls-2 {
+        fill: #444;
+      }
+
+      .cls-3 {
+        fill: #42f17c;
+      }
+    </style>
+  </defs>
+  <image id="Background" width="280" height="140" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAARgAAACMCAYAAACnDrZtAAAB00lEQVR4nO3UMQHAQAzEsLT8Od+j8CZB8OBv2w4g8IsKVAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBAxmCAjMEAGYMBMgYDZAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBAxmCAjMEAGYMBMgYDZAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBAxmCAjMEAGYMBMgYDZAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBAxmCAjMEAGYMBMgYDZAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBAxmCAjMEAGYMBMgYDZAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAzQuLsH3FoFFOw6n10AAAAASUVORK5CYII="/>
+  <text id="_FORGE_PC" data-name="  FORGE PC" class="cls-1" transform="translate(106.708 79.363) scale(0.853)"><tspan x="0">		FORGE<tspan class="cls-2"> <tspan class="cls-3">PC</tspan></tspan></tspan></text>
+</svg>
